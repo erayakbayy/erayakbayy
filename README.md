@@ -24,13 +24,13 @@ Yüksek performanslı web uygulamaları, modern arayüzler ve otomasyon sistemle
 
 ### Featured Projects & Products
 
-#### [Hatırla](https://github.com/eraykoka/hatirla-portfolio) · [Live](https://xn--hatrla-r9a.com/)
+#### [Hatırla](https://github.com/erayakbayy/hatirla-portfolio) · [Live](https://xn--hatrla-r9a.com/)
 > **Dijital mektup & çift uyum testi platformu**
 - Mobil-öncelikli, duygusal paylaşım deneyimi (özel link · opsiyonel şifre · medya).
 - Gizlilik varsayılanlı consumer SaaS ürün mimarisi.
 - **Stack (high-level):** Modern web UI · hesap/panel · özel bağlantı paylaşımı.
 
-#### [Premium Launcher](https://github.com/eraykoka/premium-launcher-portfolio) · [Download](https://github.com/eraykoka/premium-launcher-updates/releases)
+#### [Premium Launcher](https://github.com/erayakbayy/premium-launcher-portfolio) · [Download](https://github.com/erayakbayy/premium-launcher-updates/releases)
 > **Windows Minecraft launcher (commercial product)**
 - İzole profiller, Skin Studio, mod sağlığı, güvenli auto-update.
 - Player-first masaüstü UX; kaynak kod proprietary (portföy vitrini public).
@@ -46,8 +46,8 @@ Yüksek performanslı web uygulamaları, modern arayüzler ve otomasyon sistemle
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eraykoka&show_icons=true&theme=dark&count_private=true&hide_title=true" alt="Eray's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraykoka&layout=compact&theme=dark&hide=html,css&hide_title=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erayakbayy&show_icons=true&theme=dark&count_private=true&hide_title=true" alt="Eray's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erayakbayy&layout=compact&theme=dark&hide=html,css&hide_title=true" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Yüksek performanslı web uygulamaları, modern arayüzler ve otomasyon sistemle
 ### Connect
 
 - **Website:** [hatırla.com](https://xn--hatrla-r9a.com/)
-- **GitHub:** [@eraykoka](https://github.com/eraykoka)
+- **GitHub:** [@erayakbayy](https://github.com/erayakbayy)
 - **LinkedIn:** *(profil linkini ekle)*
 - **Email:** *(iş başvurusu mailini ekle)*
 
